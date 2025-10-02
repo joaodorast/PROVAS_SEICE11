@@ -302,8 +302,8 @@ export function ImportStudentsPage() {
                     <SelectValue placeholder="Selecione o turno" />
                   </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="Matutino">Matutino</SelectItem>
-                    <SelectItem value="Vespertino">Vespertino</SelectItem>
+                    <SelectItem value="Matutino">Manhã</SelectItem>
+                    <SelectItem value="Vespertino">Tarde</SelectItem>
                     <SelectItem value="Noturno">Noturno</SelectItem>
                   </SelectContent>
                 </Select>
