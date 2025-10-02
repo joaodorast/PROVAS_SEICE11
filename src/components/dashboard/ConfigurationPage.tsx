@@ -208,7 +208,7 @@ export function ConfigurationPage({ user }: ConfigurationPageProps) {
                     id="phone"
                     value={profileData.phone}
                     onChange={(e) => setProfileData(prev => ({ ...prev, phone: e.target.value }))}
-                    placeholder="(11) 99999-9999"
+                    placeholder="(21) 99999-9999"
                   />
                 </div>
                 <div className="space-y-2">
