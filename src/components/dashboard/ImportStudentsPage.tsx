@@ -334,7 +334,7 @@ export function ImportStudentsPage() {
         </Card>
       )}
 
-      {/* Filters and Search */}
+    
       <Card className="seice-card">
         <CardHeader>
           <CardTitle>Lista de Alunos</CardTitle>
