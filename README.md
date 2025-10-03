@@ -1,5 +1,5 @@
 
----
+
 
 ````markdown
 # 📚 Provas Seice App
@@ -52,5 +52,5 @@ A aplicação estará disponível em: [http://localhost:3000](http://localhost:3
 * [Vercel](https://vercel.com/) (Deploy)
 * [Figma](https://figma.com/) (Design)
 
-```
+
 
