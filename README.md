@@ -1,6 +1,3 @@
-
-
-
 ````markdown
 # 📚 Provas Seice App
 
@@ -45,12 +42,12 @@ A aplicação estará disponível em: [http://localhost:3000](http://localhost:3
 
 ## ⚙️ Tecnologias utilizadas
 
-* [Next.js](https://nextjs.org/)
-* [React](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [TailwindCSS](https://tailwindcss.com/)
-* [Vercel](https://vercel.com/) (Deploy)
-* [Figma](https://figma.com/) (Design)
+* Next.js
+* React
+* TypeScript
+* TailwindCSS
+* Vercel (Deploy)
+* Figma (Design)
 
-
+```
 
