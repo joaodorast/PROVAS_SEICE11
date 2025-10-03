@@ -49,5 +49,4 @@ A aplicação estará disponível em: [http://localhost:3000](http://localhost:3
 * Vercel (Deploy)
 * Figma (Design)
 
-```
 
