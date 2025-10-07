@@ -393,7 +393,7 @@ export function ReportsPage() {
         </CardContent>
       </Card>
 
-      {/* Reports Cards - Mobile View */}
+     
       <div className="md:hidden space-y-3">
         {filteredReports.map((report) => (
           <Card key={report.id} className="overflow-hidden">
