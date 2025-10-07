@@ -289,7 +289,8 @@ export function ReportsPage() {
         </CardContent>
       </Card>
 
-      {/* Reports Table - Desktop View */}
+     
+  
       <Card className="hidden md:block">
         <CardHeader className="pb-4">
           <CardTitle className="flex items-center text-base md:text-lg">
