@@ -504,7 +504,7 @@ export function ReportsPage() {
         })}
       </div>
 
-      {/* Help Text */}
+
       <Card className="bg-blue-50 border-blue-200">
         <CardContent className="pt-4 md:pt-6">
           <div className="flex items-start space-x-3">
